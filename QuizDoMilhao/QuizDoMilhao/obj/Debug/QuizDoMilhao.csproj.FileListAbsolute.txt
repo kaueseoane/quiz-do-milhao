@@ -1,0 +1,12 @@
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\bin\Debug\QuizDoMilhao.exe.config
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\bin\Debug\QuizDoMilhao.exe
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\bin\Debug\QuizDoMilhao.pdb
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.csprojAssemblyReference.cache
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.FormMenu.resources
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.Properties.Resources.resources
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.csproj.GenerateResource.cache
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.csproj.CoreCompileInputs.cache
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.exe
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.pdb
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.FormJogo.resources
+C:\Users\kaues\Desktop\QuizDoMilhao\QuizDoMilhao\obj\Debug\QuizDoMilhao.FormRegras.resources
